@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0",
-  "package": "praeparo-bootstrap-0.2.0.zip",
-  "sha256": "594c175f39fe760e1e43b0a854df02a5fdc1f7caef6e5b3e1cbc531f3b3259b1",
-  "bytes": 48152,
-  "publishedAt": "2026-08-24T14:43:30+00:00",
+  "version": "0.2.1",
+  "package": "praeparo-bootstrap-0.2.1.zip",
+  "sha256": "1970374ed621d1636746762525fcbc5197f3b52ff921e6c04b78c2e46adb8f51",
+  "bytes": 48145,
+  "publishedAt": "2026-08-24T15:28:10+00:00",
   "packageSchemaVersion": 1,
   "minUpgradeFrom": "0.1.0"
 }

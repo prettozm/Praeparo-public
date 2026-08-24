@@ -1,10 +1,10 @@
 # Praeparo — version publiée
 
-**Essayer : <https://prettozm.github.io/Praeparo-public/>**
+**Essayer : <https://prettozm.github.io/praeparo/>**
 
 Praeparo est un atelier visuel pour concevoir, matérialiser et vérifier les workflows de travail entre humains, agents IA et outils.
 
-Ce dépôt ne contient que la **version publiée** : une page HTML unique, autonome (aucun backend, aucun service externe — vos projets restent dans votre navigateur), et le **package de distribution** officiel. Le code source vit dans un dépôt privé ; ces artefacts y sont produits par :
+Ce dépôt ne contient que la **version publiée** : une page HTML unique, autonome (aucun backend, aucun service externe — vos projets restent dans votre navigateur), et le **package de distribution** officiel. Le code source vit dans [`prettozm/praeparo-src`](https://github.com/prettozm/praeparo-src) ; ces artefacts y sont produits par :
 
 ```bash
 npm run build && node scripts/build-single-file.mjs
